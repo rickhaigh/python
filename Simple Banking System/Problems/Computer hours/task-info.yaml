@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# Make sure your output matches the assignment *exactly*'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5930#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 26 Dec 2020 04:44:06 UTC
+record: -1

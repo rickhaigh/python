@@ -1,0 +1,20 @@
+type: code
+custom_name: E ** x minus one
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # place `import` statement at top of the program
+
+
+    # don't modify this code, otherwise, `x` may not be available
+    x = int(input())
+
+    # use expm1() here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7176#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 26 Dec 2020 20:58:25 UTC
+record: -1
